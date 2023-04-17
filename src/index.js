@@ -8,5 +8,4 @@ const writeFile = async (fileName, fileContent) => {
   
 };
 
-writeFile(fileName, fileContent);
 module.exports = { writeFile };
